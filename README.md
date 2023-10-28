@@ -9,6 +9,8 @@ Este repositório é uma extensão prática do artigo "[Por que não usar Mocks?
 - **Spy**: Stubs que também mantêm um registro de como foram chamados, por exemplo, quantas vezes um método foi chamado e com quais argumentos.
 - **Mock**: Incorporam todas as características dos Spies mas também contêm asserções para verificar o comportamento no teste.
 
+Visite o artigo completo para uma discussão aprofundada e explore este repositório para exemplos práticos desses conceitos em ação.
+
 ## Commands
 npm install
 
