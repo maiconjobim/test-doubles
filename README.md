@@ -1,6 +1,6 @@
 ## Test Doubles: An Exploration of Mocks, Stubs, Dummies, and Spies
 
-This repository is a practical extension of the article "[Why Not to Use Mocks?](https://medium.com/@maicon.jobim/por-que-n%C3%A3o-usar-mocks-84f80328c52e)" where we explore the nuances of different types of test doubles as defined by Gerard Meszaros. The code examples are written in TypeScript and use the Jest testing framework.
+This repository is a practical extension of the article "[Why Not to Use Mocks?](https://medium.com/@maicon.jobim/why-shouldnt-you-use-mocks-1d5eb603d9a3)" where we explore the nuances of different types of test doubles as defined by Gerard Meszaros. The code examples are written in TypeScript and use the Jest testing framework.
 
 ## Overview
 
